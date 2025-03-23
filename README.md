@@ -18,6 +18,10 @@ To set up the project on your local machine, follow these steps:
    cd Sign-Language-Detection
    ```
 
+# Dataset
+
+https://www.kaggle.com/datasets/drblack00/isl-csltr-indian-sign-language-dataset
+
 3. **Install Dependencies**:
 
    It's recommended to use a virtual environment. If you don't have `virtualenv` installed, you can install it using:
@@ -56,10 +60,6 @@ To run the sign language detection:
    ```bash
    streamlit run predict_UI.py
    ```
-
-## Contributions
-
-Contributions are welcome! If you have suggestions, improvements, or bug fixes, please fork the repository and submit a pull request.
 
 ## License
 
