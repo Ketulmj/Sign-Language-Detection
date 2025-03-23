@@ -2,10 +2,6 @@
 
 This project aims to develop a gesture-based sign language detection system using pre-trained ML and deep learning techniques. The system takes a video input, processes it to extract relevant features, and translates these gestures into corresponding words.
 
-# Dataset
-
-https://www.kaggle.com/datasets/drblack00/isl-csltr-indian-sign-language-dataset
-
 ## Installation
 
 To set up the project on your local machine, follow these steps:
@@ -50,12 +46,7 @@ To set up the project on your local machine, follow these steps:
 
 To run the sign language detection:
 
-1. **Detection from test data**:
-
-   ```bash
-   python predict_realtime.py
-   ```
-2. . **Detection of user-input video with UI**:
+**Sentence Prediction of user-input video**:
 
    ```bash
    streamlit run predict_UI.py
