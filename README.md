@@ -1,6 +1,6 @@
 # Sign Language Detection
 
-This project aims to develop a gesture based sign language detection system using pre-trained ML and deep learning techniques. The system takes video input, processes them to extract relevant features, and translates these gestures into corresponding sentence.
+This project aims to develop a gesture-based sign language detection system using pre-trained ML and deep learning techniques. The system takes a video input, processes it to extract relevant features, and translates these gestures into corresponding words.
 
 # Dataset
 
